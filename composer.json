@@ -1,0 +1,17 @@
+{
+    "name": "havennow/crawler_example",
+    "description": "Only dummy tests",
+    "type": "project",
+    "require": {
+        "symfony/dom-crawler": "^5.2",
+        "fabpot/goutte": "^4.0",
+        "symfony/var-dumper": "^5.2"
+    },
+    "license": "BSD2",
+    "authors": [
+        {
+            "name": "Guilherme Trevisan",
+            "email": "havennow@gmail.com"
+        }
+    ]
+}
